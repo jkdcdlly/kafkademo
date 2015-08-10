@@ -19,7 +19,7 @@ public class KafkaConsumer {
 
 	private final ConsumerConnector consumer;
 	private File file = new File("/opt/kafka.txt");
-	public final static String TOPIC = "travel_access";
+	public final static String TOPIC = "zhilei11";
 
 	private KafkaConsumer() {
 
